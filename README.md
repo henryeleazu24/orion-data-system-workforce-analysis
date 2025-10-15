@@ -48,6 +48,23 @@ The analysis is based on four datasets from Orion data system workforce namely: 
 
 ### Workforce Gaps
 - There is currently no job role without an employee.
+  
+## Recommendations
+- The salary of those in the shipping department should be reviewed as it is very low compared to other departments.
+- The United State of America’s large market should be further explored as the activities there are low.
+- The salary of employees who are earning below the average salary should be reviewed to motivate the workers to work more.
+
+## Tools Used
+- MySQL for analysis.
+- Google docs for reporting.
+
+## Conclusion 
+This project was done using MySQL on Orion data system workforce and it gives insight into their workforce distribution, salary comparison, salary bands for employees, country level analysis, high earners, department leaders, job role analysis, employee ranking, salary growth trend and workforce gaps.
+
+
+
+
+
 
 
 
