@@ -22,7 +22,7 @@ The analysis is based on four datasets from Orion data system workforce namely: 
 ### Workforce distribution
 - Shipping department has the highest number of employees with forty-five, followed by Sales with thirty-four, Finance and Purchasing departments with six employees each, IT with five employees, Executive with three, Marketing and Accounting with two employees each while Administration, Human resource and Public relation department have the least number of employees with just one each.
 
-## Salary comparison
+### Salary comparison
 - The Executive department with an average salary of $19,333 has the highest average salary while the Shipping department with an average salary of $3476 has the lowest average salary.
 
 ### Salary bands for Employees
