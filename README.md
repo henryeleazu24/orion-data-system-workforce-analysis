@@ -1,2 +1,2 @@
 # Orion Data Systems Workforce Analytics
-![Workforce Header](workforce-header.PNG)
+![Workforce Header](workforce-header.png)
